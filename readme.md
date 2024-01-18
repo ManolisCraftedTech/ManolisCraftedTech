@@ -6,7 +6,7 @@
 <h2>:scroll:Certifications / Courses</h2>
 
 
-  - Google Cybersecurity Professional Certificatehttps://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU
+  - Google Cybersecurity Professional Certificate https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU
   - SOC Level 1 https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png 
   - Pre Security Learning Path https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YHQSJTYLDP.png
   - Cyber Security learning Path https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RFEV8BD7LH.png
