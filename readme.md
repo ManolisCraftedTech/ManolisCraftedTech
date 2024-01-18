@@ -1,6 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manolis
 ===============================================================================================================================
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/windows-defender-blue)
+![Static Badge](https://img.shields.io/badge/linux--orange)
+![Static Badge](https://img.shields.io/badge/TCP%2FIP%20--green)
+![Static Badge](https://img.shields.io/badge/HTTP%2FS%20--green)
+![Static Badge](https://img.shields.io/badge/Pf-sense-blue)
+![Static Badge](https://img.shields.io/badge/Active-Directory-blue)
+![Static Badge](https://img.shields.io/badge/Vms--blue)
+![Static Badge](https://img.shields.io/badge/Windows-Firewall-blue)
+![Static Badge](https://img.shields.io/badge/kali-linux-red)
+![Static Badge](https://img.shields.io/badge/Wireshark--blue)
+
+
 
 Network IT | Cybersecurity Student
 ----------------------------------
