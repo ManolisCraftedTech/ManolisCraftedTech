@@ -14,7 +14,7 @@
   - Networking By Cisco https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961/public_url
   - Network Support & Security by Cisco https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f/public_url 
 <h2>My budges</h2>
- 
+ ![]({{site.baseurl}}[Imgur](https://i.imgur.com/RjchjGx.png))
 
 
 
@@ -34,5 +34,3 @@
 
 [instagram]: https://www.instagram.com/manolis.atsas/
 [linkedin]: https://linkedin.com/in/manolis-atsas
-
-
