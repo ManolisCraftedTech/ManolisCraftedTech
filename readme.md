@@ -1,28 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manolis
+Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manolis
 ===============================================================================================================================
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/windows-defender-blue)
-![Static Badge](https://img.shields.io/badge/linux--orange)
-![Static Badge](https://img.shields.io/badge/TCP%2FIP%20--green)
-![Static Badge](https://img.shields.io/badge/HTTP%2FS%20--green)
-![Static Badge](https://img.shields.io/badge/Pf-sense-blue)
-![Static Badge](https://img.shields.io/badge/Active-Directory-blue)
-![Static Badge](https://img.shields.io/badge/Vms--blue)
-![Static Badge](https://img.shields.io/badge/Windows-Firewall-blue)
-![Static Badge](https://img.shields.io/badge/kali-linux-red)
-![Static Badge](https://img.shields.io/badge/Wireshark--blue)
 
+<h3>Network IT | Cybersecurity Student</h3>
+🎮 Embarking on the Cyber Odyssey 🎮
 
+Everything began to unfold at the age of 11 when I breathed life into my first PC — a Dell Dimension 4550, boasting a Pentium processor, a GeForce 4 440MX, and a whopping 500MB RAM, running Windows XP Service Pack 3. 🚀🚀 My journey into the realms of technology took flight.
 
-Network IT | Cybersecurity Student
-----------------------------------
+Transforming from a gaming aficionado to a digital vigilante, my journey evolved. Today, my mission is clear: safeguarding the virtual frontiers we navigate daily. The Dell Dimension 4550 was my starting point, but it was also the catalyst for a passion that would shape my destiny in the cybersecurity landscape.
 
-I’m currently working on Eservice ,an IT support company. In my role at eService, I'm part of a team responsible for overseeing and managing all IT-related functions within an organization.I find particular excitement in the realm of cybersecurity, and I'm actively seeking opportunities to contribute my expertise in this field
+🖥️ 7 Years of Cyber Odyssey
 
-* 🌍  I'm based in Greece
-* 🧠  I'm learning Cyber security Blue team Applications
-* 🤝  I'm open to collaborating on Entry level cyber security roles part time/fulltime
+With a background of 7 years of experience in Computer Systems and Networks, I'm currently contributing my skills and expertise at eService, an IT support company. In my role, I am part of a dedicated team responsible for overseeing and managing all IT-related functions within organizations.
 
+🛡️ Passionate about Cybersecurity
+
+Within the vast realm of technology, I find particular excitement in the domain of cybersecurity. Actively seeking opportunities to contribute my expertise, I am committed to fortifying digital landscapes against evolving threats and challenges.
 
 <h2>My Budges</h2>
 
@@ -42,10 +34,26 @@ I’m currently working on Eservice ,an IT support company. In my role at eServi
 [![Screenshot-2024-01-18-213443-removebg-preview.png](https://i.postimg.cc/FRgk0sX4/Screenshot-2024-01-18-213443-removebg-preview.png)](https://tryhackme.com/manolis25/badges/blue)
 [![Screenshot-2024-01-18-214733-removebg-preview.png](https://i.postimg.cc/3xvRgJ2c/Screenshot-2024-01-18-214733-removebg-preview.png)](https://tryhackme.com/manolis25/badges/30-day-streak)
 
+===============================================================================================================================
 
 
 
+<h2>Skills</h2>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/windows-defender-blue)
+![Static Badge](https://img.shields.io/badge/linux--orange)
+![Static Badge](https://img.shields.io/badge/TCP%2FIP%20--green)
+![Static Badge](https://img.shields.io/badge/HTTP%2FS%20--green)
+![Static Badge](https://img.shields.io/badge/Pf-sense-blue)
+![Static Badge](https://img.shields.io/badge/Active-Directory-blue)
+![Static Badge](https://img.shields.io/badge/Vms--blue)
+![Static Badge](https://img.shields.io/badge/Windows-Firewall-blue)
+![Static Badge](https://img.shields.io/badge/kali-linux-red)
+![Static Badge](https://img.shields.io/badge/Wireshark--blue)
+
+
+===============================================================================================================================
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ManolisCraftedTech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/manolis.atsas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/manolis-atsas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
