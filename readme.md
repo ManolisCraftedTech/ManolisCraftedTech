@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Network IT | Cybersecurity Student
 ----------------------------------
 
-I’m currently working on Eservice , In my role at eService, I'm part of a team responsible for overseeing and managing all IT-related functions within an organization.I find particular excitement in the realm of cybersecurity, and I'm actively seeking opportunities to contribute my expertise in this field
+I’m currently working on Eservice ,an IT support company. In my role at eService, I'm part of a team responsible for overseeing and managing all IT-related functions within an organization.I find particular excitement in the realm of cybersecurity, and I'm actively seeking opportunities to contribute my expertise in this field
 
 * 🌍  I'm based in Greece
 * 🧠  I'm learning Cyber security Blue team Applications
