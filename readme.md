@@ -13,6 +13,8 @@ I’m currently working on Eservice ,an IT support company. In my role at eServi
 * 🌍  I'm based in Greece
 * 🧠  I'm learning Cyber security Blue team Applications
 * 🤝  I'm open to collaborating on Entry level cyber security roles part time/fulltime
+
+
 <h2>My Budges</h2>
 
 [![google-cybersecurity-certificate.png](https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png)](https://www.credly.com/badges/10adc208-de13-4b5d-88f4-a3c0f5053d58)
@@ -31,9 +33,6 @@ I’m currently working on Eservice ,an IT support company. In my role at eServi
 [![Screenshot-2024-01-18-213443-removebg-preview.png](https://i.postimg.cc/FRgk0sX4/Screenshot-2024-01-18-213443-removebg-preview.png)](https://tryhackme.com/manolis25/badges/blue)
 [![Screenshot-2024-01-18-214733-removebg-preview.png](https://i.postimg.cc/3xvRgJ2c/Screenshot-2024-01-18-214733-removebg-preview.png)](https://tryhackme.com/manolis25/badges/30-day-streak)
 
-(https://postimg.cc/B8RzmdhK)
-(https://tryhackme.com/manolis25/badges/blue)
-(https://tryhackme.com/manolis25/badges/network-fundamentals)
 
 ### Socials
 
