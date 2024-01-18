@@ -17,12 +17,23 @@ I’m currently working on Eservice ,an IT support company. In my role at eServi
 
 [![google-cybersecurity-certificate.png](https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png)](https://www.credly.com/badges/10adc208-de13-4b5d-88f4-a3c0f5053d58)
 [![network-support.png](https://i.postimg.cc/QN5Xz8Nr/network-support.png)](https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f)
+[![networking-academy-learn-a-thon-2023.png](https://i.postimg.cc/vBmdZyf3/networking-academy-learn-a-thon-2023.png)](https://www.credly.com/badges/4ce417c4-b98e-4f8c-a221-aa2c50e62f6d)
 [![networking-basics.png](https://i.postimg.cc/xTKWvqfc/networking-basics.png)](https://www.credly.com/badges/4ce417c4-b98e-4f8c-a221-aa2c50e62f6d)
-[![networking-academy-learn-a-thon-2023.png](https://i.postimg.cc/vBmdZyf3/networking-academy-learn-a-thon-2023.png)](https://postimg.cc/B8RzmdhK)
-[![blue.png](https://i.postimg.cc/7LCm6Km8/blue.png)](https://tryhackme.com/manolis25/badges/blue)
-[![networkfundamentals.png](https://i.postimg.cc/qMhs2N2y/networkfundamentals.png)](https://tryhackme.com/manolis25/badges/network-fundamentals)
+[![Screenshot-2024-01-18-213600-removebg-preview.png](https://i.postimg.cc/fLRmHKgq/Screenshot-2024-01-18-213600-removebg-preview.png)](https://tryhackme.com/manolis25/badges/terminaled)
+[![Screenshot-2024-01-18-214808-removebg-preview.png](https://i.postimg.cc/rmXB6frj/Screenshot-2024-01-18-214808-removebg-preview.png)](https://tryhackme.com/manolis25/badges/wireshark)
+[![Screenshot-2024-01-18-213620-removebg-preview.png](https://i.postimg.cc/VvRv0rwy/Screenshot-2024-01-18-213620-removebg-preview.png)](https://tryhackme.com/manolis25/badges/metasploitable)
+[![Screenshot-2024-01-18-214700-removebg-preview.png](https://i.postimg.cc/NMZS8pgm/Screenshot-2024-01-18-214700-removebg-preview.png)](https://tryhackme.com/manolis25/badges/owasp-10)
+[![Screenshot-2024-01-18-214715-removebg-preview.png](https://i.postimg.cc/YCwkBqBY/Screenshot-2024-01-18-214715-removebg-preview.png)](https://tryhackme.com/manolis25/badges/phishing)
+[![Screenshot-2024-01-18-213537-removebg-preview.png](https://i.postimg.cc/gkycJ6DN/Screenshot-2024-01-18-213537-removebg-preview.png)](https://tryhackme.com/manolis25/badges/world-wide-web)
+[![Screenshot-2024-01-18-214748-removebg-preview.png](https://i.postimg.cc/BbK6NY20/Screenshot-2024-01-18-214748-removebg-preview.png)](https://tryhackme.com/manolis25/badges/web-fund)
+[![Screenshot-2024-01-18-214641-removebg-preview.png](https://i.postimg.cc/SQfxrv2m/Screenshot-2024-01-18-214641-removebg-preview.png)](https://tryhackme.com/manolis25/badges/network-fundamentals)
+[![Screenshot-2024-01-18-213457-removebg-preview.png](https://i.postimg.cc/mZPGcpYd/Screenshot-2024-01-18-213457-removebg-preview.png)](https://tryhackme.com/manolis25/badges/hash-cracker)
+[![Screenshot-2024-01-18-213443-removebg-preview.png](https://i.postimg.cc/FRgk0sX4/Screenshot-2024-01-18-213443-removebg-preview.png)](https://tryhackme.com/manolis25/badges/blue)
+[![Screenshot-2024-01-18-214733-removebg-preview.png](https://i.postimg.cc/3xvRgJ2c/Screenshot-2024-01-18-214733-removebg-preview.png)](https://tryhackme.com/manolis25/badges/30-day-streak)
 
-
+(https://postimg.cc/B8RzmdhK)
+(https://tryhackme.com/manolis25/badges/blue)
+(https://tryhackme.com/manolis25/badges/network-fundamentals)
 
 ### Socials
 
