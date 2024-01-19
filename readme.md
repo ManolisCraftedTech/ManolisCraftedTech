@@ -2,15 +2,19 @@ Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-078
 ===============================================================================================================================
 
 
-<h3><img width="48" height="48" src="https://img.icons8.com/fluency/48/thin-client.png" alt="thin-client"/>Network IT | Cybersecurity Student</h3>
+<h3><img width="48" height="48" src="https://img.icons8.com/fluency/48/thin-client.png" alt="thin-client"/>Network IT | Cybersecurity Student-Part Time</h3>
+
 🎮 Embarking on the Cyber Odyssey 🎮
+
 Everything began to unfold at the age of 11 when I breathed life into my first PC — a Dell Dimension 4550, boasting a Pentium processor, a GeForce 4 440MX, and a whopping 500MB RAM, running Windows XP Service Pack 3. 🚀🚀 My journey into the realms of technology took flight.
 Transforming from a gaming aficionado to a digital vigilante, my journey evolved. Today, my mission is clear: safeguarding the virtual frontiers we navigate daily. The Dell Dimension 4550 was my starting point, but it was also the catalyst for a passion that would shape my destiny in the cybersecurity landscape.
 
 🖥️ 7 Years of Cyber Odyssey
+
 With a background of 7 years of experience in Computer Systems and Networks, I'm currently contributing my skills and expertise at eService, an IT support company. In my role, I am part of a dedicated team responsible for overseeing and managing all IT-related functions within organizations.
 
 🛡️ Passionate about Cybersecurity
+
 Within the vast realm of technology, I find particular excitement in the domain of cybersecurity. Actively seeking opportunities to contribute my expertise, I am committed to fortifying digital landscapes against evolving threats and challenges.
 <br/>
 <br/>
