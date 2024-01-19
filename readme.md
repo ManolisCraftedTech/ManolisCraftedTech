@@ -22,7 +22,8 @@ Within the vast realm of technology, I find particular excitement in the domain 
 <h2><img width="48" height="48" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
 
   - [CYBERSECURITY DETECTION & MONITORING LAB](https://github.com/ManolisCraftedTech/LabProject)
-  - [ACTIVE DIRECTORY LAB](https://github.com/ManolisCraftedTech/LabProjrect)
+  
+  - [ACTIVE DIRECTORY LAB](https://github.com/ManolisCraftedTech/LabProject)
 
 <br/>
 <br/>
