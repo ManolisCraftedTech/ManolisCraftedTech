@@ -1,8 +1,12 @@
-Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manolis
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/manolis.atsas
+[linkedin]: https://linkedin.com/in/manolis-atsas
+
+Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Manos
 ===============================================================================================================================
-
-
-<h3><img width="48" height="48" src="https://img.icons8.com/fluency/48/thin-client.png" alt="thin-client"/>Network IT | Cybersecurity Student-Part Time</h3>
 
 🎮 Embarking on the Cyber Odyssey 🎮
 
@@ -74,14 +78,4 @@ Within the vast realm of technology, I find particular excitement in the domain 
 ![Static Badge](https://img.shields.io/badge/kali-linux-red)
 ![Static Badge](https://img.shields.io/badge/Wireshark--blue)
 
-<br/>
-<br/>
-<h2><img width="48" height="48" src="https://img.icons8.com/fluency/48/group-task.png" alt="group-task"/>Connect With me !</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/manolis.atsas
-[linkedin]: https://linkedin.com/in/manolis-atsas
 
