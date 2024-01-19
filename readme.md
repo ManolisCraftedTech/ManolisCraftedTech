@@ -9,7 +9,7 @@ Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-078
 <br/>
 
 
-<h3>Network IT | Cybersecurity Student</h3>
+<h3><img width="48" height="48" src="https://img.icons8.com/fluency/48/thin-client.png" alt="thin-client"/>Network IT | Cybersecurity Student</h3>
 🎮 Embarking on the Cyber Odyssey 🎮
 
 Everything began to unfold at the age of 11 when I breathed life into my first PC — a Dell Dimension 4550, boasting a Pentium processor, a GeForce 4 440MX, and a whopping 500MB RAM, running Windows XP Service Pack 3. 🚀🚀 My journey into the realms of technology took flight.
@@ -38,7 +38,7 @@ Within the vast realm of technology, I find particular excitement in the domain 
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
-<h2>My Budges</h2>
+<h2><img width="64" height="64" src="https://img.icons8.com/arcade/64/badge.png" alt="badge"/>Budges</h2>
 
 [![google-cybersecurity-certificate.png](https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png)](https://www.credly.com/badges/10adc208-de13-4b5d-88f4-a3c0f5053d58)
 [![networking-academy-learn-a-thon-2023.png](https://i.postimg.cc/vBmdZyf3/networking-academy-learn-a-thon-2023.png)](https://www.credly.com/badges/4ce417c4-b98e-4f8c-a221-aa2c50e62f6d)
