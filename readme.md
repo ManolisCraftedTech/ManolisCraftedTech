@@ -1,9 +1,23 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/windows-defender-blue)
+![Static Badge](https://img.shields.io/badge/linux--orange)
+![Static Badge](https://img.shields.io/badge/TCP%2FIP%20--green)
+![Static Badge](https://img.shields.io/badge/HTTP%2FS%20--green)
+![Static Badge](https://img.shields.io/badge/Pf-sense-blue)
+![Static Badge](https://img.shields.io/badge/Active-Directory-blue)
+![Static Badge](https://img.shields.io/badge/Vms--blue)
+![Static Badge](https://img.shields.io/badge/Windows-Firewall-blue)
+![Static Badge](https://img.shields.io/badge/kali-linux-red)
+![Static Badge](https://img.shields.io/badge/Wireshark--blue)
+
+<BR>
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/manolis.atsas
 [linkedin]: https://linkedin.com/in/manolis-atsas
-
+<BR>
 Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Manos
 ===============================================================================================================================
@@ -20,17 +34,12 @@ With a background of 7 years of experience in Computer Systems and Networks, I'm
 🛡️ Passionate about Cybersecurity
 
 Within the vast realm of technology, I find particular excitement in the domain of cybersecurity. Actively seeking opportunities to contribute my expertise, I am committed to fortifying digital landscapes against evolving threats and challenges.
-<br/>
-<br/>
 
 <h2><img width="48" height="48" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
 
   - [CYBERSECURITY DETECTION & MONITORING LAB](https://github.com/ManolisCraftedTech/LabProject)
   
   - [ACTIVE DIRECTORY LAB](https://github.com/ManolisCraftedTech/LabProject)
-
-<br/>
-<br/>
 
 <h2><img width="48" height="48" src="https://img.icons8.com/fluency/48/contract.png" alt="contract"/>Certifications</h2>
  
@@ -39,9 +48,6 @@ Within the vast realm of technology, I find particular excitement in the domain 
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
-<br/>
-<br/>
 
 <h2><img width="64" height="64" src="https://img.icons8.com/arcade/64/badge.png" alt="badge"/>Budges</h2>
 
@@ -60,22 +66,4 @@ Within the vast realm of technology, I find particular excitement in the domain 
 [![Screenshot-2024-01-18-213457-removebg-preview.png](https://i.postimg.cc/mZPGcpYd/Screenshot-2024-01-18-213457-removebg-preview.png)](https://tryhackme.com/manolis25/badges/hash-cracker)
 [![Screenshot-2024-01-18-213443-removebg-preview.png](https://i.postimg.cc/FRgk0sX4/Screenshot-2024-01-18-213443-removebg-preview.png)](https://tryhackme.com/manolis25/badges/blue)
 [![Screenshot-2024-01-18-214733-removebg-preview.png](https://i.postimg.cc/3xvRgJ2c/Screenshot-2024-01-18-214733-removebg-preview.png)](https://tryhackme.com/manolis25/badges/30-day-streak)
-
-<br/>
-<br/>
-
-<h2><img width="64" height="64" src="https://img.icons8.com/arcade/64/persuasion-skills.png" alt="persuasion-skills"/>Skills</h2>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/windows-defender-blue)
-![Static Badge](https://img.shields.io/badge/linux--orange)
-![Static Badge](https://img.shields.io/badge/TCP%2FIP%20--green)
-![Static Badge](https://img.shields.io/badge/HTTP%2FS%20--green)
-![Static Badge](https://img.shields.io/badge/Pf-sense-blue)
-![Static Badge](https://img.shields.io/badge/Active-Directory-blue)
-![Static Badge](https://img.shields.io/badge/Vms--blue)
-![Static Badge](https://img.shields.io/badge/Windows-Firewall-blue)
-![Static Badge](https://img.shields.io/badge/kali-linux-red)
-![Static Badge](https://img.shields.io/badge/Wireshark--blue)
-
 
