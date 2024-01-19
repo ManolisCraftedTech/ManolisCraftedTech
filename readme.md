@@ -23,6 +23,8 @@ With a background of 7 years of experience in Computer Systems and Networks, I'm
 🛡️ Passionate about Cybersecurity
 
 Within the vast realm of technology, I find particular excitement in the domain of cybersecurity. Actively seeking opportunities to contribute my expertise, I am committed to fortifying digital landscapes against evolving threats and challenges.
+<h2>Cybersecurity Projects</h2>
+<h2>Certifications</h2>
 
 <h2>My Budges</h2>
 
