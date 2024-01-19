@@ -24,13 +24,13 @@ With a background of 7 years of experience in Computer Systems and Networks, I'm
 
 Within the vast realm of technology, I find particular excitement in the domain of cybersecurity. Actively seeking opportunities to contribute my expertise, I am committed to fortifying digital landscapes against evolving threats and challenges.
 
-<h2>Cybersecurity Projects</h2>
+<h2><img width="48" height="48" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
 
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 
-<h2>Certifications</h2>
+<h2><img width="48" height="48" src="https://img.icons8.com/fluency/48/contract.png" alt="contract"/>Certifications</h2>
  
  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
