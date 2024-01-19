@@ -10,14 +10,6 @@
 ![Static Badge](https://img.shields.io/badge/kali-linux-red)
 ![Static Badge](https://img.shields.io/badge/Wireshark--blue)
 
-<BR>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/manolis.atsas
-[linkedin]: https://linkedin.com/in/manolis-atsas
-<BR>
 Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Manos
 ===============================================================================================================================
@@ -49,7 +41,7 @@ Within the vast realm of technology, I find particular excitement in the domain 
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
-<h2><img width="64" height="64" src="https://img.icons8.com/arcade/64/badge.png" alt="badge"/>Budges</h2>
+<h2><img width="48" height="48" src="https://img.icons8.com/color/48/warranty.png" alt="warranty"/>Budges</h2>
 
 [![google-cybersecurity-certificate.png](https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png)](https://www.credly.com/badges/10adc208-de13-4b5d-88f4-a3c0f5053d58)
 [![networking-academy-learn-a-thon-2023.png](https://i.postimg.cc/vBmdZyf3/networking-academy-learn-a-thon-2023.png)](https://www.credly.com/badges/4ce417c4-b98e-4f8c-a221-aa2c50e62f6d)
@@ -67,3 +59,5 @@ Within the vast realm of technology, I find particular excitement in the domain 
 [![Screenshot-2024-01-18-213443-removebg-preview.png](https://i.postimg.cc/FRgk0sX4/Screenshot-2024-01-18-213443-removebg-preview.png)](https://tryhackme.com/manolis25/badges/blue)
 [![Screenshot-2024-01-18-214733-removebg-preview.png](https://i.postimg.cc/3xvRgJ2c/Screenshot-2024-01-18-214733-removebg-preview.png)](https://tryhackme.com/manolis25/badges/30-day-streak)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manolis.atsas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manolis-atsas) 
