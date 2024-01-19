@@ -1,3 +1,6 @@
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manolis.atsas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manolis-atsas) 
+
 Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Manos
 ===============================================================================================================================
@@ -47,5 +50,3 @@ Within the vast realm of technology, I find particular excitement in the domain 
 [![Screenshot-2024-01-18-213443-removebg-preview.png](https://i.postimg.cc/FRgk0sX4/Screenshot-2024-01-18-213443-removebg-preview.png)](https://tryhackme.com/manolis25/badges/blue)
 [![Screenshot-2024-01-18-214733-removebg-preview.png](https://i.postimg.cc/3xvRgJ2c/Screenshot-2024-01-18-214733-removebg-preview.png)](https://tryhackme.com/manolis25/badges/30-day-streak)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manolis.atsas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manolis-atsas) 
