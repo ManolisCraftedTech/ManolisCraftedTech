@@ -1,14 +1,13 @@
 Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Manos
 ===============================================================================================================================
+🛡️Embarking on the Cyber Odyssey🛡️
 
-💻🖱️Embarking on the Cyber Odyssey
+My love for technology has been a driving force in my journey.Everything began at the age of 11 with my first PC .A Dell Dimension 4550,with Pentium processor,GeForce 4 440MX, and 500MB RAM, running Windows XP Service Pack 3.My journey into the realms of technology took flight.Today, my mission is clear: safeguarding the virtual frontiers we navigate daily.
 
-My love for technology has been a driving force in my journey.Everything began to unfold at the age of 11 when I breathed life into my first PC — a Dell Dimension 4550,with Pentium processor,GeForce 4 440MX, and  500MB RAM, running Windows XP Service Pack 3.My journey into the realms of technology took flight.🚀🚀
-Today, my mission is clear: safeguarding the virtual frontiers we navigate daily.
+🚀 With a robust background of 7 years  in Computer Systems and Networks🚀
 
-🛡️🌐 With a background of 7 years of experience in Computer Systems and Networks, I'm currently contributing my skills and expertise at eService, an IT support company. In my role, I am part of a dedicated team responsible for overseeing and managing all IT-related functions within organizations.
-
+I currently lend my expertise at eService, an IT support company. In my role, I am part of a dedicated team responsible for overseeing and managing all IT-related functions within organizations.My journey has been a continuous refinement of problem-solving skills, with a commitment to customer satisfaction .I thrive on collaboration with professionals, working together to solve complex challenges.
  
 <h2><img width="48" height="48" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
 
