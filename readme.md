@@ -23,11 +23,12 @@ Within the vast realm of technology, I find particular excitement in the domain 
 
 <h2><img width="48" height="48" src="https://img.icons8.com/fluency/48/contract.png" alt="contract"/>Certifications</h2>
  
- - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU)
+  - [SOC LEVEL 1-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png)
+  - [Into to cyber-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RFEV8BD7LH.png)
+  - [Pre security path-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YHQSJTYLDP.png)
+  - [Networking Basics by cisco](https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961)
+  - [Network Support and Security](https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f)
 
 <h2><img width="48" height="48" src="https://img.icons8.com/color/48/warranty.png" alt="warranty"/>Budges</h2>
 
