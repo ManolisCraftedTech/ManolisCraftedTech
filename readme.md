@@ -12,7 +12,7 @@ My name is Manos
   - [Google Certificate Projects]()
 
 <h2><img width="48" height="48" src="https://img.icons8.com/fluency/48/contract.png" alt="contract"/>Certifications - Courses</h2>
- 
+  
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU)
   - [SOC LEVEL 1-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png)
   - [Into to cyber-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RFEV8BD7LH.png)
@@ -37,6 +37,6 @@ My name is Manos
 [![Screenshot-2024-01-18-213457-removebg-preview.png](https://i.postimg.cc/mZPGcpYd/Screenshot-2024-01-18-213457-removebg-preview.png)](https://tryhackme.com/manolis25/badges/hash-cracker)
 [![Screenshot-2024-01-18-213443-removebg-preview.png](https://i.postimg.cc/FRgk0sX4/Screenshot-2024-01-18-213443-removebg-preview.png)](https://tryhackme.com/manolis25/badges/blue)
 [![Screenshot-2024-01-18-214733-removebg-preview.png](https://i.postimg.cc/3xvRgJ2c/Screenshot-2024-01-18-214733-removebg-preview.png)](https://tryhackme.com/manolis25/badges/30-day-streak)
-## 🌐 Socials:
+##  Lets connect !
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manolis.atsas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manolis-atsas) 
 
