@@ -21,7 +21,7 @@ Within the vast realm of technology, I find particular excitement in the domain 
   - [Active Directory Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Google Certificate Projects]()
 
-<h2><img width="48" height="48" src="https://img.icons8.com/fluency/48/contract.png" alt="contract"/>Certifications</h2>
+<h2><img width="48" height="48" src="https://img.icons8.com/fluency/48/contract.png" alt="contract"/>Certifications - Courses</h2>
  
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU)
   - [SOC LEVEL 1-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png)
