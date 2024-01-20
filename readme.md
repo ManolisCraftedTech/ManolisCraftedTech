@@ -30,7 +30,7 @@ Within the vast realm of technology, I find particular excitement in the domain 
   - [Networking Basics by cisco](https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961)
   - [Network Support and Security](https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f)
 
-<h2><img width="48" height="48" src="https://img.icons8.com/color/48/warranty.png" alt="warranty"/>Budges</h2>
+<h2><img width="48" height="48" src="https://img.icons8.com/color/48/warranty.png" alt="warranty"/>Badges</h2>
 
 [![google-cybersecurity-certificate.png](https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png)](https://www.credly.com/badges/10adc208-de13-4b5d-88f4-a3c0f5053d58)
 [![networking-academy-learn-a-thon-2023.png](https://i.postimg.cc/vBmdZyf3/networking-academy-learn-a-thon-2023.png)](https://www.credly.com/badges/4ce417c4-b98e-4f8c-a221-aa2c50e62f6d)
