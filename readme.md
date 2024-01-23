@@ -8,7 +8,7 @@ My name is Manos
 <h2><img width="48" height="48" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
 
   - [CyberSecurity Detection and Monitoring Lab](https://github.com/ManolisCraftedTech/LabProject)
-  - [Active Directory Lab](https://github.com/ManolisCraftedTech/LabProject)
+  - [Active Directory Hacking Lab](https://github.com/ManolisCraftedTech/LabProject)
 
 
 <h2><img width="48" height="48" src="https://img.icons8.com/fluency/48/contract.png" alt="contract"/>Certifications - Courses</h2>
