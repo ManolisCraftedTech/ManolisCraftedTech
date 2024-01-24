@@ -15,7 +15,7 @@ My name is Manos
   
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU)
   - [SOC LEVEL 1-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png)
-  - [Cyber Defense- Tryhackme]()
+  - [Cyber Defense- Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DXOTFDP3AA.png)
   - [Intro to cyber-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RFEV8BD7LH.png)
   - [Pre security path-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YHQSJTYLDP.png)
   - [Networking Basics-Cisco](https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961)
