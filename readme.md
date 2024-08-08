@@ -28,7 +28,7 @@ My name is Manos
 
 [![google-cybersecurity-certificate.png](https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png)](https://www.credly.com/badges/10adc208-de13-4b5d-88f4-a3c0f5053d58)
 [![networking-academy-learn-a-thon-2023.png](https://i.postimg.cc/vBmdZyf3/networking-academy-learn-a-thon-2023.png)](https://www.credly.com/badges/4ce417c4-b98e-4f8c-a221-aa2c50e62f6d)
-[![cyber-threat-management.png](https://i.postimg.cc/nVN25Hyn/cyber-threat-management.png)]([https://postimg.cc/14cDVZRd](https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url))
+[![cyber-threat-management.png](https://i.postimg.cc/nVN25Hyn/cyber-threat-management.png)](https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url)
 [![network-support.png](https://i.postimg.cc/QN5Xz8Nr/network-support.png)](https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f)
 [![networking-basics.png](https://i.postimg.cc/xTKWvqfc/networking-basics.png)](https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961)
 [![Screenshot-2024-02-08-224657-removebg-preview.png](https://i.postimg.cc/Vvt1YHKn/Screenshot-2024-02-08-224657-removebg-preview.png)](https://tryhackme.com/manolis25/badges/intro-to-pentesting)
