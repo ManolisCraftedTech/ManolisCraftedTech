@@ -10,6 +10,9 @@ My name is Manos
   - [CyberSecurity Detection and Monitoring Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Active Directory Hacking Lab](https://github.com/ManolisCraftedTech/LabProject)
 
+<h2><img width="48" height="48" src="https://img.icons8.com/color-glass/48/home-page.png" alt="home-page"/>Home Network</h2>
+
+- [Home Network Documentation](https://github.com/ManolisCraftedTech/Home-Network/tree/main)
 
 <h2><img width="48" height="48" src="https://img.icons8.com/fluency/48/contract.png" alt="contract"/>Certifications - Courses</h2>
   
