@@ -3,7 +3,7 @@ My name is Manos
 ===============================================================================================================================
 - 💼 Currently contributing to the IT support landscape.
 - 🛠️ 7 years of experience in Computer Systems and Networks..
-- 🔧 Currently specializing in cybersecurity, focusing on detection, monitoring, and Active Directory
+- 🔧 Currently specializing in cybersecurity, focusing on detection,monitoring,investigation.
 - 🛡️ Always seeking opportunities to collaborate and safeguard digital assets.
 <h2><img width="48" height="48" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
 
