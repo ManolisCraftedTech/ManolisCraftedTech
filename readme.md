@@ -38,10 +38,6 @@ My name is Manos
 [![network-support.png](https://i.postimg.cc/QN5Xz8Nr/network-support.png)](https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f)
 [![networking-basics.png](https://i.postimg.cc/xTKWvqfc/networking-basics.png)](https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961)
 [![networking-academy-learn-a-thon-2023.png](https://i.postimg.cc/43y0gj0J/networking-academy-learn-a-thon-2023.png)](https://www.credly.com/badges/4ce417c4-b98e-4f8c-a221-aa2c50e62f6d)
-[![Screenshot-2024-09-07-1315801.png](https://i.postimg.cc/L82drCRX/Screenshot-2024-09-07-1315801.png)](https://app.letsdefend.io/my-rewards/detail/0f839b43-1d1f-4b8d-b2bb-ec1e61d83a29)
-[![Screenshot-2024-09-07-135750.png](https://i.postimg.cc/gj857RT8/Screenshot-2024-09-07-135750.png)](https://app.letsdefend.io/my-rewards/detail/8d445935-4345-41d2-bf13-e2a3dab54874)
-[![1121.png](https://i.postimg.cc/BQfRKYjg/1121.png)](https://app.letsdefend.io/my-rewards/detail/ce091604-4717-496d-b6ee-c35a46017f1e)
-[![Screensh123233ot-2024-09-07-135823.png](https://i.postimg.cc/ZKkzLYM6/Screensh123233ot-2024-09-07-135823.png)](https://app.letsdefend.io/my-rewards/detail/e35ee934-28ac-4102-afa8-a569fe983544)
 [![Screenshot-2024-02-08-224657-removebg-preview.png](https://i.postimg.cc/Vvt1YHKn/Screenshot-2024-02-08-224657-removebg-preview.png)](https://tryhackme.com/manolis25/badges/intro-to-pentesting)
 [![Screenshot-2024-01-18-213600-removebg-preview.png](https://i.postimg.cc/fLRmHKgq/Screenshot-2024-01-18-213600-removebg-preview.png)](https://tryhackme.com/manolis25/badges/terminaled)
 [![Screenshot-2024-01-18-214808-removebg-preview.png](https://i.postimg.cc/rmXB6frj/Screenshot-2024-01-18-214808-removebg-preview.png)](https://tryhackme.com/manolis25/badges/wireshark)
@@ -54,6 +50,11 @@ My name is Manos
 [![Screenshot-2024-01-18-213457-removebg-preview.png](https://i.postimg.cc/mZPGcpYd/Screenshot-2024-01-18-213457-removebg-preview.png)](https://tryhackme.com/manolis25/badges/hash-cracker)
 [![Screenshot-2024-01-18-213443-removebg-preview.png](https://i.postimg.cc/FRgk0sX4/Screenshot-2024-01-18-213443-removebg-preview.png)](https://tryhackme.com/manolis25/badges/blue)
 [![Screenshot-2024-01-18-214733-removebg-preview.png](https://i.postimg.cc/3xvRgJ2c/Screenshot-2024-01-18-214733-removebg-preview.png)](https://tryhackme.com/manolis25/badges/30-day-streak)
+[![Screenshot-2024-09-07-1315801.png](https://i.postimg.cc/L82drCRX/Screenshot-2024-09-07-1315801.png)](https://app.letsdefend.io/my-rewards/detail/0f839b43-1d1f-4b8d-b2bb-ec1e61d83a29)
+[![Screenshot-2024-09-07-135750.png](https://i.postimg.cc/gj857RT8/Screenshot-2024-09-07-135750.png)](https://app.letsdefend.io/my-rewards/detail/8d445935-4345-41d2-bf13-e2a3dab54874)
+[![1121.png](https://i.postimg.cc/BQfRKYjg/1121.png)](https://app.letsdefend.io/my-rewards/detail/ce091604-4717-496d-b6ee-c35a46017f1e)
+[![Screensh123233ot-2024-09-07-135823.png](https://i.postimg.cc/ZKkzLYM6/Screensh123233ot-2024-09-07-135823.png)](https://app.letsdefend.io/my-rewards/detail/e35ee934-28ac-4102-afa8-a569fe983544)
+
 ##  Lets connect !
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manolis.atsas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manolis-atsas) 
 
