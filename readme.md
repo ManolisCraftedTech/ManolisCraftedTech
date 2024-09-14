@@ -1,11 +1,7 @@
 # Hello, World! I'm Manos 👋
-Passionate about technology and cybersecurity.
 - 💼 Currently contributing to the IT support landscape.
-
 - 🛠️ 7 years of experience in Computer Systems and Networks.
-
 - 🔧 Specializing in cybersecurity, focusing on detection, monitoring, and investigation.
-
 - 🛡️ Always seeking opportunities to collaborate and safeguard digital assets.
 
 <h2><img width="48" height="48" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
@@ -68,7 +64,14 @@ Passionate about technology and cybersecurity.
   </tr>
 </table>
 
+<h2> Let's Connect!</h2>
+<p>
+  <a href="https://instagram.com/manolis.atsas" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40px"/>
+  </a>
+  <a href="https://linkedin.com/in/manolis-atsas" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40px"/>
+  </a>
+</p>
 
-##  Lets connect !
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manolis.atsas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manolis-atsas) 
 
