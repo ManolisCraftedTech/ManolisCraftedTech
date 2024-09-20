@@ -41,7 +41,7 @@
     <td><a href="https://tryhackme.com/manolis25/badges/terminaled"><img src="https://i.postimg.cc/fLRmHKgq/Screenshot-2024-01-18-213600-removebg-preview.png" width="150"/></a></td>
     <td><a href="https://tryhackme.com/manolis25/badges/wireshark"><img src="https://i.postimg.cc/rmXB6frj/Screenshot-2024-01-18-214808-removebg-preview.png" width="150"/></a></td>
   </tr>
-  <tr>
+    <tr>
     <td><a href="https://tryhackme.com/manolis25/badges/metasploitable"><img src="https://i.postimg.cc/VvRv0rwy/Screenshot-2024-01-18-213620-removebg-preview.png" width="150"/></a></td>
     <td><a href="https://tryhackme.com/manolis25/badges/owasp-10"><img src="https://i.postimg.cc/NMZS8pgm/Screenshot-2024-01-18-214700-removebg-preview.png" width="150"/></a></td>
     <td><a href="https://tryhackme.com/manolis25/badges/phishing"><img src="https://i.postimg.cc/YCwkBqBY/Screenshot-2024-01-18-214715-removebg-preview.png" width="150"/></a></td>
@@ -58,9 +58,10 @@
     <td><a href="https://app.letsdefend.io/my-rewards/detail/0f839b43-1d1f-4b8d-b2bb-ec1e61d83a29"><img src="https://i.postimg.cc/L82drCRX/Screenshot-2024-09-07-1315801.png" width="150"/></a></td>
     <td><a href="https://app.letsdefend.io/my-rewards/detail/8d445935-4345-41d2-bf13-e2a3dab54874"><img src="https://i.postimg.cc/gj857RT8/Screenshot-2024-09-07-135750.png" width="150"/></a></td>
     <td><a href="https://app.letsdefend.io/my-rewards/detail/ce091604-4717-496d-b6ee-c35a46017f1e"><img src="https://i.postimg.cc/BQfRKYjg/1121.png" width="150"/></a></td>
-  </tr>
+   </tr>
   <tr>
     <td><a href="https://app.letsdefend.io/my-rewards/detail/e35ee934-28ac-4102-afa8-a569fe983544"><img src="https://i.postimg.cc/ZKkzLYM6/Screensh123233ot-2024-09-07-135823.png" width="150"/></a></td>
+    <td><a href="https://app.letsdefend.io/my-rewards/detail/ea4986dd-74c9-4f50-b304-27bbd94dc78f"><img src="https://i.postimg.cc/QdQTwZjq/Screenshot-2024-09-20-083215.png" width="150"/></a></td>
   </tr>
 </table>
 
