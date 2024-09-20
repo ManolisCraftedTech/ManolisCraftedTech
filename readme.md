@@ -62,6 +62,8 @@
   <tr>
     <td><a href="https://app.letsdefend.io/my-rewards/detail/e35ee934-28ac-4102-afa8-a569fe983544"><img src="https://i.postimg.cc/ZKkzLYM6/Screensh123233ot-2024-09-07-135823.png" width="150"/></a></td>
     <td><a href="https://app.letsdefend.io/my-rewards/detail/ea4986dd-74c9-4f50-b304-27bbd94dc78f"><img src="https://i.postimg.cc/QdQTwZjq/Screenshot-2024-09-20-083215.png" width="150"/></a></td>
+    <td><a href="    ><img src="    " width="150"/></a></td>
+    <td><a href="    ><img src="    " width="150"/></a></td>
   </tr>
 </table>
 
