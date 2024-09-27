@@ -63,8 +63,12 @@
     <td><a href="https://app.letsdefend.io/my-rewards/detail/e35ee934-28ac-4102-afa8-a569fe983544"><img src="https://i.postimg.cc/ZKkzLYM6/Screensh123233ot-2024-09-07-135823.png" width="150"/></a></td>
     <td><a href="https://app.letsdefend.io/my-rewards/detail/ea4986dd-74c9-4f50-b304-27bbd94dc78f"><img src="https://i.postimg.cc/QdQTwZjq/Screenshot-2024-09-20-083215.png" width="150"/></a></td>
     <td><a href="https://app.letsdefend.io/my-rewards/detail/7c9fe3b5-b8ec-44c9-a6ed-ce941d0f9ba0"><img src="https://i.postimg.cc/wjZmFwDt/1231312321312321.png" width="150"/></a></td> 
-    <td><a href="    ><img src="    " width="150"/></a></td>
-  </tr>     
+    <td><a href="https://app.letsdefend.io/my-rewards/detail/1716f63a-20e6-4549-aff6-1557a885df03"><img src="https://i.postimg.cc/Kc192Vhf/Screenshot-2024-09-27-222257.png" width="150"/></a></td>
+    <td><a href="https://app.letsdefend.io/my-rewards/detail/34d2529d-bc46-46d5-8f1b-dbd731c6b016"><img src="https://i.postimg.cc/TwCB4WmP/Screenshot-2024-09-27-222310.png" width="150"/></a></td>
+  </tr> 
+  
+[![Screenshot-2024-09-27-222310.png](https://i.postimg.cc/TwCB4WmP/Screenshot-2024-09-27-222310.png)](https://postimg.cc/ftSH3y84)
+   
 </table>
 
 <h2> Let's Connect!</h2>
