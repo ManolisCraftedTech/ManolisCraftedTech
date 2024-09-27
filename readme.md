@@ -66,9 +66,7 @@
     <td><a href="https://app.letsdefend.io/my-rewards/detail/1716f63a-20e6-4549-aff6-1557a885df03"><img src="https://i.postimg.cc/Kc192Vhf/Screenshot-2024-09-27-222257.png" width="150"/></a></td>
     <td><a href="https://app.letsdefend.io/my-rewards/detail/34d2529d-bc46-46d5-8f1b-dbd731c6b016"><img src="https://i.postimg.cc/TwCB4WmP/Screenshot-2024-09-27-222310.png" width="150"/></a></td>
   </tr> 
-  
-[![Screenshot-2024-09-27-222310.png](https://i.postimg.cc/TwCB4WmP/Screenshot-2024-09-27-222310.png)](https://postimg.cc/ftSH3y84)
-   
+     
 </table>
 
 <h2> Let's Connect!</h2>
