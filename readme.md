@@ -64,8 +64,14 @@
     <td><a href="https://app.letsdefend.io/my-rewards/detail/ea4986dd-74c9-4f50-b304-27bbd94dc78f"><img src="https://i.postimg.cc/QdQTwZjq/Screenshot-2024-09-20-083215.png" width="150"/></a></td>
     <td><a href="https://app.letsdefend.io/my-rewards/detail/7c9fe3b5-b8ec-44c9-a6ed-ce941d0f9ba0"><img src="https://i.postimg.cc/wjZmFwDt/1231312321312321.png" width="150"/></a></td> 
     <td><a href="https://app.letsdefend.io/my-rewards/detail/1716f63a-20e6-4549-aff6-1557a885df03"><img src="https://i.postimg.cc/Kc192Vhf/Screenshot-2024-09-27-222257.png" width="150"/></a></td>
-    <td><a href="https://app.letsdefend.io/my-rewards/detail/34d2529d-bc46-46d5-8f1b-dbd731c6b016"><img src="https://i.postimg.cc/TwCB4WmP/Screenshot-2024-09-27-222310.png" width="150"/></a></td>
+  
   </tr> 
+  <tr>
+    <td><a href="https://app.letsdefend.io/my-rewards/detail/421849ec-3ebd-4124-93b7-2f70fd1257bf"><img src="https://i.postimg.cc/rwpvKpXv/Screenshot-2024-09-28-210118.png" width="150"/></a></td>
+    <td><a href="https://app.letsdefend.io/my-rewards/detail/74a2f13f-0354-4329-b6c1-0559547306a3"><img src="https://i.postimg.cc/hGBT2XDY/Screenshot-2024-09-28-210132.png" width="150"/></a></td>
+    <td><a href="https://app.letsdefend.io/my-rewards/detail/34d2529d-bc46-46d5-8f1b-dbd731c6b016"><img src="https://i.postimg.cc/TwCB4WmP/Screenshot-2024-09-27-222310.png" width="150"/></a></td>
+    
+  </tr>
      
 </table>
 
