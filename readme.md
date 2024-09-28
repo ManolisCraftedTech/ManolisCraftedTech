@@ -4,12 +4,13 @@
 - 🔧 Specializing in cybersecurity, focusing on detection, monitoring, and investigation.
 - 🛡️ Always seeking opportunities to collaborate and safeguard digital assets.
 
-<h2><img width="48" height="48" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
+<h2><img width="28" height="28" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
 
   - [CyberSecurity Detection and Monitoring Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Active Directory Hacking Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Home Lab](https://github.com/ManolisCraftedTech/Home-Network/tree/main)
 
+## 📜 Certifications & Courses
 | **Cybersecurity** | **Networking & Traffic Analysis** |
 |-------------------|-----------------------------------|
 | [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU) | [Analyze Network traffic with tcp dump](https://www.coursera.org/account/accomplishments/records/CDJBB5VAL564) |
