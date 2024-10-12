@@ -24,6 +24,7 @@
 | | [Responder-LetsDefend](https://app.letsdefend.io/my-rewards/detail/34d2529d-bc46-46d5-8f1b-dbd731c6b016) |
 | | [Network Log Analysis-LetsDefend](https://app.letsdefend.io/my-rewards/detail/74a2f13f-0354-4329-b6c1-0559547306a3) |
 | | [Phishing Analyzer-LetsDefend](https://app.letsdefend.io/my-rewards/detail/421849ec-3ebd-4124-93b7-2f70fd1257bf) |
+| | [Malware analysis Lab](https://app.letsdefend.io/my-rewards/detail/e9819aaacc3244bc9fdd8962e40914ca) |
 
 
 <h2><img width="48" height="48" src="https://img.icons8.com/color/48/warranty.png" alt="warranty"/> Badges</h2>
