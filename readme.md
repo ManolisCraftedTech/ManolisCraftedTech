@@ -1,6 +1,6 @@
 # Hello, World! I'm Manos 👋
-- 💼 Currently contributing to the IT support landscape.
-- 🛠️ 7 years of experience in Computer Systems and Networks.
+
+- 🛠️ 7 years of Technical Background in Computer Systems and Networks.
 - 🔧 Specializing in cybersecurity, focusing on detection, monitoring, and investigation.
 - 🛡️ Always seeking opportunities to collaborate and safeguard digital assets.
 
