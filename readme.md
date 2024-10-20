@@ -13,19 +13,18 @@
 ## 📜 Certifications & Courses
 | **Cybersecurity** | **Networking & Traffic Analysis** |
 |-------------------|-----------------------------------|
-| [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU) | [Analyze Network traffic with tcp dump](https://www.coursera.org/account/accomplishments/records/CDJBB5VAL564) |
-| [SOC LEVEL 1-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png) | [Wireshark for beginners: Capture Packets](https://www.coursera.org/account/accomplishments/records/8PWH4S8CG3K8) |
-| [Cyber Threat Management-Cisco](https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url) | [Microsoft Windows Defender & Firewall](https://www.coursera.org/account/accomplishments/records/UUTGFVNFWDWZ) |
-| [Cyber Defense-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DXOTFDP3AA.png) | [Network Support and Security-Cisco](https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f) |
-| [Pre Security Path-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YHQSJTYLDP.png) | [Networking Basics-Cisco](https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961) |
-| [Intro to Cyber-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RFEV8BD7LH.png) | [Phishing Email-LetsDefend](https://app.letsdefend.io/my-rewards/detail/ea4986dd-74c9-4f50-b304-27bbd94dc78f) |
-| | [Pcap Analysis-LetsDefend](https://app.letsdefend.io/my-rewards/detail/7c9fe3b5-b8ec-44c9-a6ed-ce941d0f9ba0) |
-| | [Cyber Incident Handler-LetsDefend](https://app.letsdefend.io/my-rewards/detail/1716f63a-20e6-4549-aff6-1557a885df03) |
+| [🎓Google Cybersecurity Professional Certificate🎓](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU) | [Analyze Network traffic with tcp dump](https://www.coursera.org/account/accomplishments/records/CDJBB5VAL564) | |
+| ***[SOC LEVEL 1-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png)*** | [Wireshark for beginners: Capture Packets](https://www.coursera.org/account/accomplishments/records/8PWH4S8CG3K8) | |
+| [Cyber Threat Management-Cisco](https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url) | [Microsoft Windows Defender & Firewall](https://www.coursera.org/account/accomplishments/records/UUTGFVNFWDWZ) | |
+| [Cyber Defense-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DXOTFDP3AA.png) | [Network Support and Security-Cisco](https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f) | |
+| [Pre Security Path-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YHQSJTYLDP.png) | [Networking Basics-Cisco](https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961) | |
+| [Intro to Cyber-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RFEV8BD7LH.png) | [Phishing Email-LetsDefend](https://app.letsdefend.io/my-rewards/detail/ea4986dd-74c9-4f50-b304-27bbd94dc78f) | |
+| [Malware analysis Lab](https://app.letsdefend.io/my-rewards/detail/e9819aaacc3244bc9fdd8962e40914ca) | [Cyber Incident Handler-LetsDefend](https://app.letsdefend.io/my-rewards/detail/1716f63a-20e6-4549-aff6-1557a885df03) | |
+| [Building a SOC Lab at Home](https://app.letsdefend.io/my-rewards/detail/b8b6654c-3734-4ac8-85d6-2099a2bd6801) | [Pcap Analysis-LetsDefend](https://app.letsdefend.io/my-rewards/detail/7c9fe3b5-b8ec-44c9-a6ed-ce941d0f9ba0) | |
 | | [Responder-LetsDefend](https://app.letsdefend.io/my-rewards/detail/34d2529d-bc46-46d5-8f1b-dbd731c6b016) |
 | | [Network Log Analysis-LetsDefend](https://app.letsdefend.io/my-rewards/detail/74a2f13f-0354-4329-b6c1-0559547306a3) |
 | | [Phishing Analyzer-LetsDefend](https://app.letsdefend.io/my-rewards/detail/421849ec-3ebd-4124-93b7-2f70fd1257bf) |
-| | [Malware analysis Lab](https://app.letsdefend.io/my-rewards/detail/e9819aaacc3244bc9fdd8962e40914ca) |
-| | [Building a SOC Lab at Home](https://app.letsdefend.io/my-rewards/detail/b8b6654c-3734-4ac8-85d6-2099a2bd6801)
+
 
 <h2><img width="48" height="48" src="https://img.icons8.com/color/48/warranty.png" alt="warranty"/> Badges</h2>
 
