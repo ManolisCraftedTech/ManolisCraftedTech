@@ -8,7 +8,7 @@
 
   - [CyberSecurity Detection and Monitoring Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Active Directory Hacking Lab](https://github.com/ManolisCraftedTech/LabProject)
-
+  - [HomeNetConfig](https://github.com/ManolisCraftedTech/Home-Network)
 
 ## 📜 Certifications & Courses
 | **Cybersecurity** | **Networking & Traffic Analysis** |
