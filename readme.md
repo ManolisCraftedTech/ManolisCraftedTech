@@ -7,7 +7,7 @@
 <h2><img width="28" height="28" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
 
   - [CyberSecurity Detection and Monitoring Lab](https://github.com/ManolisCraftedTech/LabProject)
-  - [Active Directory Hacking Lab](https://github.com/ManolisCraftedTech/LabProject)
+  - [Active Directory Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [HomeNetConfig](https://github.com/ManolisCraftedTech/Home-Network)
 
 ## 📜 Certifications & Courses
