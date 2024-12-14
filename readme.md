@@ -1,6 +1,7 @@
 # Hello, World! I'm Manos 👋
 
-- 🛠️ 7 Years of Technical Expertise in Computer Systems and Networks.
+- 🛡️ Lvl 1 Soc Analyst
+- 🛠️ 7 Years of Technical Expertise in Computer Systems and Networks. 
 - 🔧 Specializing in cybersecurity, focusing on detection, monitoring, and investigation.
 - 🛡️ Always seeking opportunities to collaborate and safeguard digital assets.
 
