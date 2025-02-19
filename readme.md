@@ -9,6 +9,7 @@
 
   - [CyberSecurity Detection and Monitoring Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Active Directory Lab](https://github.com/ManolisCraftedTech/LabProject)
+  - [Raspberry PIhole AD-Blocker](https://github.com/ManolisCraftedTech/RaspberryDNS)
   
 ## 📜 Certifications & Courses
 | **Cybersecurity** | **Networking & Traffic Analysis** |
