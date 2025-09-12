@@ -1,9 +1,7 @@
-# Hello, World! I'm Manos 👋
+Hello there, I’m Manos👋
 
-- 🛡️ Lvl 1 Soc Analyst
-- 🛠️ 7 Years of Technical Expertise in Computer Systems and Networks. 
-- 🔧 Specializing in cybersecurity, focusing on detection, monitoring, and investigation.
-- 🛡️ Always seeking opportunities to collaborate and safeguard digital assets.
+Leveraging a solid background in IT systems and network infrastructure, I have successfully transitioned into cybersecurity, focusing on security monitoring, threat detection & response, and log analysis.
+I am continuously expanding my skill set, with an increasing emphasis on incident response methodologies and practical security operations.
 
 <h2><img width="28" height="28" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
 
