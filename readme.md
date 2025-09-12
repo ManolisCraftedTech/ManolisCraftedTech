@@ -1,15 +1,27 @@
-Hello there,
 
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/manolis25.png" alt="TryHackMe Badge" />
+</p>
+<p align="center">
+  <a href="https://instagram.com/manolis.atsas" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40px"/>
+  </a>
+  <a href="https://linkedin.com/in/manolis-atsas" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40px"/>
+  </a>
+</p>
+
+## Hello World
 I’m Manos, leveraging a solid background in IT systems and network infrastructure, and actively building expertise in cybersecurity through extensive hands-on learning and professional development. Focused on security monitoring, threat detection & response, and log analysis. I am committed to continuous growth, demonstrated by a diverse portfolio of completed courses and practical projects that sharpen my skills for real-world challenges.
 
-<h2><img width="28" height="28" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
-
+## <img src="https://img.icons8.com/color/48/concept.png" alt="concept" width="28" height="28" style="vertical-align:middle;"/> Cybersecurity Projects
   - [CyberSecurity Detection and Monitoring Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Active Directory Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Raspberry PIhole AD-Blocker](https://github.com/ManolisCraftedTech/RaspberryDNS)
   - [Raspberry PiVPN](https://github.com/ManolisCraftedTech/pivpn)
   
-## 📜 Certifications & Courses
+## 📜 Certifications & Courses  
 | **Cybersecurity** | **Networking & Traffic Analysis** |
 |-------------------|-----------------------------------|
 | ***[🎓Google Cybersecurity Professional Certificate🎓](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU)*** | [Analyze Network traffic with tcp dump](https://www.coursera.org/account/accomplishments/records/CDJBB5VAL564) | |
@@ -24,8 +36,7 @@ I’m Manos, leveraging a solid background in IT systems and network infrastruct
 | | [Network Log Analysis-LetsDefend](https://app.letsdefend.io/my-rewards/detail/74a2f13f-0354-4329-b6c1-0559547306a3) |
 | | [Phishing Analyzer-LetsDefend](https://app.letsdefend.io/my-rewards/detail/421849ec-3ebd-4124-93b7-2f70fd1257bf) |
 
-
-<h2><img width="48" height="48" src="https://img.icons8.com/color/48/warranty.png" alt="warranty"/> Badges</h2>
+<h2><img width="28" height="28" src="https://img.icons8.com/color/48/warranty.png" alt="warranty"/> Badges</h2>
 
 <table>
   <tr>
@@ -76,15 +87,4 @@ I’m Manos, leveraging a solid background in IT systems and network infrastruct
      
  </TR>
 </table>
-
-<h2> Let's Connect!</h2>
-<p>
-  <a href="https://instagram.com/manolis.atsas" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40px"/>
-  </a>
-  <a href="https://linkedin.com/in/manolis-atsas" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40px"/>
-  </a>
-</p>
-
 
