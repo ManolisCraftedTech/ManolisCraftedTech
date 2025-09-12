@@ -1,7 +1,6 @@
-Hello there, I’m Manos👋
+Hello there,
 
-Leveraging a solid background in IT systems and network infrastructure, I have successfully transitioned into cybersecurity, focusing on security monitoring, threat detection & response, and log analysis.
-I am continuously expanding my skill set, with an increasing emphasis on incident response methodologies and practical security operations.
+I’m Manos, leveraging a solid background in IT systems and network infrastructure, and actively building expertise in cybersecurity through extensive hands-on learning and professional development. Focused on security monitoring, threat detection & response, and log analysis. I am committed to continuous growth, demonstrated by a diverse portfolio of completed courses and practical projects that sharpen my skills for real-world challenges.
 
 <h2><img width="28" height="28" src="https://img.icons8.com/color/48/concept.png" alt="concept"/>Cybersecurity Projects</h2>
 
