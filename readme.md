@@ -16,6 +16,7 @@ I’m Manos, leveraging a solid background in IT systems and network infrastruct
   - [Active Directory Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Raspberry PIhole AD-Blocker](https://github.com/ManolisCraftedTech/RaspberryDNS)
   - [Raspberry PiVPN](https://github.com/ManolisCraftedTech/pivpn)
+  - [Home Network](https://github.com/ManolisCraftedTech/Home-Network/blob/main/%CE%97%CE%9F%CE%9C%CE%95%20%CE%9D%CE%95%CE%A4.drawio.png)
   
 ## 📜 Certifications & Courses  
 | **Cybersecurity** | **Networking & Traffic Analysis** |
