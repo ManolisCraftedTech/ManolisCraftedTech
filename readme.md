@@ -1,11 +1,8 @@
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://instagram.com/manolis.atsas" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40px"/>
-  </a>
-  <a href="https://linkedin.com/in/manolis-atsas" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40px"/>
-  </a>
+   <a href="https://www.linkedin.com/in/manolis-atsas/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" width="60" /></a>
+   <a href="https://instagram.com/manolis.atsas" target="_blank"><img src="https://github.com/user-attachments/assets/ca9b02b0-9aab-4b94-bc82-0efd62474857" height="50" width="50" /></a>
 </p>
 
 ## Hello World
