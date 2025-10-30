@@ -59,6 +59,10 @@ I’m Manos, leveraging a solid background in IT systems and network infrastruct
   <img src="https://i.postimg.cc/Vvt1YHKn/Screenshot-2024-02-08-224657-removebg-preview.png" alt="Intro to Pentesting" width="100" style="margin:8px;" />
 </a>
 
+<a href="https://tryhackme.com/certificate/THM-04A38SXJYB" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.postimg.cc/8CwzHsw7/burp.png" alt="Intro to Pentesting" width="100" style="margin:8px;" />
+</a>
+
 <a href="https://tryhackme.com/manolis25/badges/terminaled" target="_blank" rel="noopener noreferrer">
   <img src="https://i.postimg.cc/fLRmHKgq/Screenshot-2024-01-18-213600-removebg-preview.png" alt="Terminaled" width="100" style="margin:8px;" />
 </a>
