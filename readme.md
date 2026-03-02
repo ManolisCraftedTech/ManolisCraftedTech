@@ -10,7 +10,7 @@
   - [Active Directory Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Raspberry PIhole AD-Blocker](https://github.com/ManolisCraftedTech/RaspberryDNS)
   - [Raspberry PiVPN](https://github.com/ManolisCraftedTech/pivpn)
-  - [Security-First Home Lab](https://github.com/ManolisCraftedTech/Home-Network/blob/main/README.md)
+  - [Defense in depth Home Lab](https://github.com/ManolisCraftedTech/Home-Network/blob/main/README.md)
   
 ## 📜 Certifications & Courses  
 | **Cybersecurity** | **Networking & Traffic Analysis** |
