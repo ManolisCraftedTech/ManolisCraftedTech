@@ -37,20 +37,24 @@
   <img src="https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate" width="100" style="margin:8px;" />
 </a>
 
+<a href="https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04" target="_blank" rel="noopener noreferrer">
+ <img width="150" height="235" alt="Screenshot_2026-03-02_201617-removebg-preview" src="https://github.com/user-attachments/assets/10a97b81-a5ac-4437-8da3-e89b265bbcb5" />
+</a>
+
 <a href="https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/bYkBpxm2/cyber-threat-management.png" alt="Cyber Threat Management" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/bYkBpxm2/cyber-threat-management.png" alt="Cyber Threat Management" width="90" style="margin:8px;" />
 </a>
 
 <a href="https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/QN5Xz8Nr/network-support.png" alt="Network Support" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/QN5Xz8Nr/network-support.png" alt="Network Support" width="90" style="margin:8px;" />
 </a>
 
 <a href="https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/xTKWvqfc/networking-basics.png" alt="Networking Basics" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/xTKWvqfc/networking-basics.png" alt="Networking Basics" width="90" style="margin:8px;" />
 </a>
 
 <a href="https://www.credly.com/badges/4ce417c4-b98e-4f8c-a221-aa2c50e62f6d" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/43y0gj0J/networking-academy-learn-a-thon-2023.png" alt="Networking Academy Learn-A-Thon 2023" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/43y0gj0J/networking-academy-learn-a-thon-2023.png" alt="Networking Academy Learn-A-Thon 2023" width="90" style="margin:8px;" />
 </a>
 
 <a href="https://tryhackme.com/manolis25/badges/intro-to-pentesting" target="_blank" rel="noopener noreferrer">
@@ -62,7 +66,7 @@
 </a>
 
 <a href="https://tryhackme.com/manolis25/badges/terminaled" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/fLRmHKgq/Screenshot-2024-01-18-213600-removebg-preview.png" alt="Terminaled" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/fLRmHKgq/Screenshot-2024-01-18-213600-removebg-preview.png" alt="Terminaled" width="90" style="margin:8px;" />
 </a>
 
 <a href="https://tryhackme.com/manolis25/badges/wireshark" target="_blank" rel="noopener noreferrer">
@@ -126,20 +130,20 @@
   <img src="https://github.com/user-attachments/assets/06fe89a7-9a35-4041-ac21-ecabc1ea18c3" width="100" style="margin: 8px;" />
 </a>
  <a href="https://app.letsdefend.io/my-rewards/detail/ea4986dd-74c9-4f50-b304-27bbd94dc78f" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/0c0c32b3-2bd2-4584-95a2-6921693b4278" width="100" style="margin: 8px;" />
+  <img src="https://github.com/user-attachments/assets/0c0c32b3-2bd2-4584-95a2-6921693b4278" width="90" style="margin: 8px;" />
 </a>
 <a href="https://app.letsdefend.io/my-rewards/detail/0f839b43-1d1f-4b8d-b2bb-ec1e61d83a29" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/a7045e80-d0ef-4a7f-b9d8-c7b8ff30fc0a" width="100" style="margin: 8px;" />
+<img src="https://github.com/user-attachments/assets/a7045e80-d0ef-4a7f-b9d8-c7b8ff30fc0a" width="90" style="margin: 8px;" />
 </a>
  <a href="https://app.letsdefend.io/my-rewards/detail/8d445935-4345-41d2-bf13-e2a3dab54874" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/6a4db387-8316-41e0-8e56-2715b2a863b5" width="100" style="margin: 8px;" />
+<img src="https://github.com/user-attachments/assets/6a4db387-8316-41e0-8e56-2715b2a863b5" width="90" style="margin: 8px;" />
 </a>
 <a href="https://app.letsdefend.io/my-rewards/detail/e35ee934-28ac-4102-afa8-a569fe983544" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/ce860a9d-080c-4b08-a9f6-3a5df5b3af3f" width="100" style="margin: 8px;" />
+  <img src="https://github.com/user-attachments/assets/ce860a9d-080c-4b08-a9f6-3a5df5b3af3f" width="90" style="margin: 8px;" />
   </a>
   
   <a href="https://app.letsdefend.io/my-rewards/detail/ce091604-4717-496d-b6ee-c35a46017f1e" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/801c8e1d-d6ca-4389-953a-5ba469b9da73" width="100" style="margin: 8px;" />
+<img src="https://github.com/user-attachments/assets/801c8e1d-d6ca-4389-953a-5ba469b9da73" width="90" style="margin: 8px;" />
 </a>
 
 <a href=" " target="_blank" rel="noopener noreferrer">
