@@ -5,9 +5,6 @@
    <a href="https://instagram.com/manolis.atsas" target="_blank"><img src="https://github.com/user-attachments/assets/ca9b02b0-9aab-4b94-bc82-0efd62474857" height="50" width="50" /></a>
 </p>
 
-## Hello World
-I’m Manos, leveraging a solid background in IT systems and network infrastructure, and actively building expertise in cybersecurity through extensive hands-on learning and professional development. Focused on security monitoring, threat detection & response, and log analysis. I am committed to continuous growth, demonstrated by a diverse portfolio of completed courses and practical projects that sharpen my skills for real-world challenges.
-
 ## <img src="https://img.icons8.com/color/48/concept.png" alt="concept" width="28" height="28" style="vertical-align:middle;"/> Cybersecurity Projects
   - [CyberSecurity Detection and Monitoring Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Active Directory Lab](https://github.com/ManolisCraftedTech/LabProject)
