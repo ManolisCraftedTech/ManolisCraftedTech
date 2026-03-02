@@ -133,17 +133,17 @@
   <img src="https://github.com/user-attachments/assets/0c0c32b3-2bd2-4584-95a2-6921693b4278" width="90" style="margin: 8px;" />
 </a>
 <a href="https://app.letsdefend.io/my-rewards/detail/0f839b43-1d1f-4b8d-b2bb-ec1e61d83a29" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/a7045e80-d0ef-4a7f-b9d8-c7b8ff30fc0a" width="90" style="margin: 8px;" />
+<img src="https://github.com/user-attachments/assets/a7045e80-d0ef-4a7f-b9d8-c7b8ff30fc0a" width="75" style="margin: 8px;" />
 </a>
  <a href="https://app.letsdefend.io/my-rewards/detail/8d445935-4345-41d2-bf13-e2a3dab54874" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/6a4db387-8316-41e0-8e56-2715b2a863b5" width="90" style="margin: 8px;" />
+<img src="https://github.com/user-attachments/assets/6a4db387-8316-41e0-8e56-2715b2a863b5" width="80" style="margin: 8px;" />
 </a>
 <a href="https://app.letsdefend.io/my-rewards/detail/e35ee934-28ac-4102-afa8-a569fe983544" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/ce860a9d-080c-4b08-a9f6-3a5df5b3af3f" width="90" style="margin: 8px;" />
+  <img src="https://github.com/user-attachments/assets/ce860a9d-080c-4b08-a9f6-3a5df5b3af3f" width="75" style="margin: 8px;" />
   </a>
   
   <a href="https://app.letsdefend.io/my-rewards/detail/ce091604-4717-496d-b6ee-c35a46017f1e" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/801c8e1d-d6ca-4389-953a-5ba469b9da73" width="90" style="margin: 8px;" />
+<img src="https://github.com/user-attachments/assets/801c8e1d-d6ca-4389-953a-5ba469b9da73" width="75" style="margin: 8px;" />
 </a>
 
 <a href=" " target="_blank" rel="noopener noreferrer">
