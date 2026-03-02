@@ -16,8 +16,8 @@
 | **Cybersecurity** | **Networking & Traffic Analysis** |
 |-------------------|-----------------------------------|
 | ***[🎓Google Cybersecurity Professional Certificate🎓](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU)*** | [Analyze Network traffic with tcp dump](https://www.coursera.org/account/accomplishments/records/CDJBB5VAL564) | |
-| ***[🎓Microsoft Certified: Security Operations Analyst Associate(SC-200)🎓]***  | [Cyber Incident Handler-LetsDefend](https://app.letsdefend.io/my-rewards/detail/1716f63a-20e6-4549-aff6-1557a885df03) |
-| [SOC LEVEL 1-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png) | [Wireshark for beginners: Capture Packets](https://www.coursera.org/account/accomplishments/records/8PWH4S8CG3K8) | |
+| ***[🎓Microsoft Certified: Security Operations Analyst Associate(SC-200)🎓](https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04)*** | [Cyber Incident Handler-LetsDefend](https://app.letsdefend.io/my-rewards/detail/1716f63a-20e6-4549-aff6-1557a885df03) |
+| [SOC_LEVEL1-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png) | [Wireshark: Capture Packets](https://www.coursera.org/account/accomplishments/records/8PWH4S8CG3K8) | |
 | [Cyber Threat Management-Cisco](https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url) | [Microsoft Windows Defender & Firewall](https://www.coursera.org/account/accomplishments/records/UUTGFVNFWDWZ) | |
 | [Cyber Defense-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DXOTFDP3AA.png) | [Network Support and Security-Cisco](https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f) | |
 | [Jr Penetration Tester Path-Tryhackme](https://tryhackme.com/certificate/THM-04A38SXJYB) | [Pcap Analysis-LetsDefend](https://app.letsdefend.io/my-rewards/detail/7c9fe3b5-b8ec-44c9-a6ed-ce941d0f9ba0) | |
