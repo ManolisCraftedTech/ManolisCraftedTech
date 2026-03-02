@@ -5,6 +5,27 @@
    <a href="https://instagram.com/manolis.atsas" target="_blank"><img src="https://github.com/user-attachments/assets/ca9b02b0-9aab-4b94-bc82-0efd62474857" height="50" width="50" /></a>
 </p>
 
+### 🛠️ Technical Stack & Security Tools
+![Microsoft Defender](https://img.shields.io/badge/Microsoft-Defender_XDR-00a4ef?style=flat-square&logo=microsoft&logoColor=white)
+![Crowdstrike](https://img.shields.io/badge/Crowdstrike-Falcon_XDR-000000?style=flat-square&logo=crowdstrike&logoColor=white)
+![Cortex XDR](https://img.shields.io/badge/Palo_Alto-Cortex_XDR-00ADEF?style=flat-square&logo=paloaltonetworks&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=flat-square&logo=splunk&logoColor=white)
+![QRadar](https://img.shields.io/badge/IBM-QRadar-1F70C1?style=flat-square&logo=ibm&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-Scanning-003F5C?style=flat-square&logo=tenable&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Scanning-4EAA25?style=flat-square&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Mikrotik](https://img.shields.io/badge/Mikrotik_Router-004A99?style=flat-square&logo=mikrotik&logoColor=white)
+![Raspberry Pi 5](https://img.shields.io/badge/RPi_5_DNS_Host-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![WireGuard](https://img.shields.io/badge/VPN-WireGuard-881717?style=flat-square&logo=wireguard&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/DNS-Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-00a4ef?style=flat-square&logo=microsoft&logoColor=white)
+![FQL](https://img.shields.io/badge/FQL-000000?style=flat-square&logo=crowdstrike&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-000000?style=flat-square&logo=splunk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
 ## <img src="https://img.icons8.com/color/48/concept.png" alt="concept" width="28" height="28" style="vertical-align:middle;"/> Cybersecurity Projects
   - [CyberSecurity Detection and Monitoring Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Active Directory Lab](https://github.com/ManolisCraftedTech/LabProject)
