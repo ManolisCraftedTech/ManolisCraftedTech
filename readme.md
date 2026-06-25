@@ -55,7 +55,7 @@
 <div align="center">
 
 <a href="https://www.credly.com/badges/10adc208-de13-4b5d-88f4-a3c0f5053d58" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate" width="118" style="margin:8px;" />
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04" target="_blank" rel="noopener noreferrer">
@@ -68,23 +68,23 @@
 
 
 <a href="https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/bYkBpxm2/cyber-threat-management.png" alt="Cyber Threat Management" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/bYkBpxm2/cyber-threat-management.png" alt="Cyber Threat Management" width="103" style="margin:8px;" />
 </a>
 
 <a href="https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/QN5Xz8Nr/network-support.png" alt="Network Support" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/QN5Xz8Nr/network-support.png" alt="Network Support" width="103" style="margin:8px;" />
 </a>
 
 <a href="https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/xTKWvqfc/networking-basics.png" alt="Networking Basics" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/xTKWvqfc/networking-basics.png" alt="Networking Basics" width="103" style="margin:8px;" />
 </a>
 
 <a href="https://www.credly.com/badges/4ce417c4-b98e-4f8c-a221-aa2c50e62f6d" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/43y0gj0J/networking-academy-learn-a-thon-2023.png" alt="Networking Academy Learn-A-Thon 2023" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/43y0gj0J/networking-academy-learn-a-thon-2023.png" alt="Networking Academy Learn-A-Thon 2023" width="103" style="margin:8px;" />
 </a>
 
 <a href="https://tryhackme.com/manolis25/badges/intro-to-pentesting" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/Vvt1YHKn/Screenshot-2024-02-08-224657-removebg-preview.png" alt="Intro to Pentesting" width="100" style="margin:8px;" />
+  <img src="https://i.postimg.cc/Vvt1YHKn/Screenshot-2024-02-08-224657-removebg-preview.png" alt="Intro to Pentesting" width="103" style="margin:8px;" />
 </a>
 
 <a href="https://tryhackme.com/certificate/THM-04A38SXJYB" target="_blank" rel="noopener noreferrer">
