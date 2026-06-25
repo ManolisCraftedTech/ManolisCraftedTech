@@ -59,7 +59,7 @@
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04" target="_blank" rel="noopener noreferrer">
- <img width="150" height="235" alt="Screenshot_2026-03-02_201617-removebg-preview" src="https://github.com/user-attachments/assets/10a97b81-a5ac-4437-8da3-e89b265bbcb5" />
+ <img width="100" height="100" alt="Screenshot_2026-03-02_201617-removebg-preview" src="https://github.com/user-attachments/assets/10a97b81-a5ac-4437-8da3-e89b265bbcb5" />
 </a>
 
 <a href="https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url" target="_blank" rel="noopener noreferrer">
