@@ -59,27 +59,28 @@
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04" target="_blank" rel="noopener noreferrer">
- <img width="100" height="100" alt="Screenshot_2026-03-02_201617-removebg-preview" src="https://github.com/user-attachments/assets/10a97b81-a5ac-4437-8da3-e89b265bbcb5" />
+  <img width="110<img width="259" height="250" alt="Screenshot 2026-06-25 205159" src="https://github.com/user-attachments/assets/fdbfd12a-48ed-4017-bd8c-1c5bbd3aeb2a" />
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04" target="_blank" rel="noopener noreferrer">
- <img width="100" height="100" alt="Screenshot_2026-03-02_201617-removebg-preview" src="https://github.com/user-attachments/assets/10a97b81-a5ac-4437-8da3-e89b265bbcb5" />
+ <img width="110" height="106" alt="Screenshot 2026-06-25 204828" src="https://github.com/user-attachments/assets/1e853432-3c74-4034-8642-5000a6069ad6" />
 </a>
 
+
 <a href="https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/bYkBpxm2/cyber-threat-management.png" alt="Cyber Threat Management" width="90" style="margin:8px;" />
+  <img src="https://i.postimg.cc/bYkBpxm2/cyber-threat-management.png" alt="Cyber Threat Management" width="100" style="margin:8px;" />
 </a>
 
 <a href="https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/QN5Xz8Nr/network-support.png" alt="Network Support" width="90" style="margin:8px;" />
+  <img src="https://i.postimg.cc/QN5Xz8Nr/network-support.png" alt="Network Support" width="100" style="margin:8px;" />
 </a>
 
 <a href="https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/xTKWvqfc/networking-basics.png" alt="Networking Basics" width="90" style="margin:8px;" />
+  <img src="https://i.postimg.cc/xTKWvqfc/networking-basics.png" alt="Networking Basics" width="100" style="margin:8px;" />
 </a>
 
 <a href="https://www.credly.com/badges/4ce417c4-b98e-4f8c-a221-aa2c50e62f6d" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/43y0gj0J/networking-academy-learn-a-thon-2023.png" alt="Networking Academy Learn-A-Thon 2023" width="90" style="margin:8px;" />
+  <img src="https://i.postimg.cc/43y0gj0J/networking-academy-learn-a-thon-2023.png" alt="Networking Academy Learn-A-Thon 2023" width="100" style="margin:8px;" />
 </a>
 
 <a href="https://tryhackme.com/manolis25/badges/intro-to-pentesting" target="_blank" rel="noopener noreferrer">
