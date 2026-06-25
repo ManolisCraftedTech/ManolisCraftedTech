@@ -44,7 +44,7 @@
 | [Cyber Defense-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DXOTFDP3AA.png) | [Network Support and Security-Cisco](https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f) | |
 | [Jr Penetration Tester Path-Tryhackme](https://tryhackme.com/certificate/THM-04A38SXJYB) | [Pcap Analysis-LetsDefend](https://app.letsdefend.io/my-rewards/detail/7c9fe3b5-b8ec-44c9-a6ed-ce941d0f9ba0) | |
 | [Pre Security Path-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YHQSJTYLDP.png) | [Networking Basics-Cisco](https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961) | |
-| [Intro to Cyber-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RFEV8BD7LH.png) |  [Phishing Analyzer-LetsDefend](https://app.letsdefend.io/my-rewards/detail/421849ec-3ebd-4124-93b7-2f70fd1257bf)  ||
+| [Intro to Cyber-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RFEV8BD7LH.png) |  [Phishing Analyzer-LetsDefend](https://app.letsdefend.io/my-rewards/detail/421849ec-3ebd-4124-93b7-2f70fd1257bf)  | |
 | | [Malware analysis Lab](https://app.letsdefend.io/my-rewards/detail/e9819aaacc3244bc9fdd8962e40914ca) |
 | | [Building a SOC Lab at Home](https://app.letsdefend.io/my-rewards/detail/b8b6654c-3734-4ac8-85d6-2099a2bd6801) |
 | | [Responder-LetsDefend](https://app.letsdefend.io/my-rewards/detail/34d2529d-bc46-46d5-8f1b-dbd731c6b016) |
@@ -56,6 +56,10 @@
 
 <a href="https://www.credly.com/badges/10adc208-de13-4b5d-88f4-a3c0f5053d58" target="_blank" rel="noopener noreferrer">
   <img src="https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate" width="100" style="margin:8px;" />
+</a>
+
+<a href="https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04" target="_blank" rel="noopener noreferrer">
+ <img width="100" height="100" alt="Screenshot_2026-03-02_201617-removebg-preview" src="https://github.com/user-attachments/assets/10a97b81-a5ac-4437-8da3-e89b265bbcb5" />
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04" target="_blank" rel="noopener noreferrer">
