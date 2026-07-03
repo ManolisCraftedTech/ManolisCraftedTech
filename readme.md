@@ -26,14 +26,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-## <img src="https://img.icons8.com/color/48/concept.png" alt="concept" width="28" height="28" style="vertical-align:middle;"/> Cybersecurity Projects
+### 🛡️ Cybersecurity Projects
   - [CyberSecurity Detection and Monitoring Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Active Directory Lab](https://github.com/ManolisCraftedTech/LabProject)
   - [Raspberry PIhole AD-Blocker](https://github.com/ManolisCraftedTech/RaspberryDNS)
   - [Raspberry PiVPN](https://github.com/ManolisCraftedTech/pivpn)
   - [Defense in depth Home Lab](https://github.com/ManolisCraftedTech/Home-Network/blob/main/README.md)
 
-## 📜 Certifications & Courses  
+### 🎖️ Certifications & Courses  
 | **Cybersecurity** | **Networking & Traffic Analysis** |
 |-------------------|-----------------------------------|
 | ***[🎓Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU)*** |[Analyze Network traffic with tcp dump](https://www.coursera.org/account/accomplishments/records/CDJBB5VAL564) | |
@@ -50,7 +50,7 @@
 | | [Responder-LetsDefend](https://app.letsdefend.io/my-rewards/detail/34d2529d-bc46-46d5-8f1b-dbd731c6b016) |
 | | [Network Log Analysis-LetsDefend](https://app.letsdefend.io/my-rewards/detail/74a2f13f-0354-4329-b6c1-0559547306a3) |
 
-<h2><img width="28" height="28" src="https://img.icons8.com/color/48/warranty.png" alt="warranty"/> Badges & Trophies</h2>
+<h2><img width="20" height="20" src="https://img.icons8.com/color/48/warranty.png" alt="warranty"/> Badges & Trophies</h2>
 
 <div align="center">
 
