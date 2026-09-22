@@ -46,13 +46,11 @@ I'm currently working toward **Cloud Security Engineering** (Azure & AWS), with 
 [Pre Security Path-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YHQSJTYLDP.png)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManolisCraftedTech&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=ManolisCraftedTech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=ManolisCraftedTech&theme=tokyonight&hide_border=true" alt="Manos' GitHub Streak" />
 
 </div>
 
