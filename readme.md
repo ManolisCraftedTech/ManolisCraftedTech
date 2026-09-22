@@ -47,7 +47,6 @@ I'm currently working toward **Cloud Security Engineering** (Azure & AWS), with 
 | Project | Description |
 |---|---|
 | 🧪 [**Cybersecurity Detection & Monitoring Lab**](https://github.com/ManolisCraftedTech/LabProject) | End-to-end home SOC for practicing detection engineering |
-| 🏢 [**Active Directory Lab**](https://github.com/ManolisCraftedTech/LabProject) | AD environment built for attack simulation & hardening practice |
 | 🚫 [**Raspberry Pi-hole AD-Blocker**](https://github.com/ManolisCraftedTech/RaspberryDNS) | Network-wide DNS filtering on a Raspberry Pi |
 | 🔐 [**Raspberry PiVPN**](https://github.com/ManolisCraftedTech/pivpn) | Self-hosted VPN gateway for secure remote access |
 | 🏠 [**Defense in Depth Home Lab**](https://github.com/ManolisCraftedTech/Home-Network) | Layered home network security architecture, documented end-to-end |
