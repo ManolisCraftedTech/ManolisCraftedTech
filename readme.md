@@ -34,13 +34,9 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 ## 🎯 About Me
-I'm a **Senior Security Analyst** based in Greece, working within a 24/7 SOC at a leading MSSP, defending **60+ enterprise customers**. Over ~2 years in security (and 7 years total in IT-help desk, networking, SOC, and now security engineering), I've built hands-on depth across SIEM, threat detection, and incident response.
+I'm a Security Operations Engineer based in Greece, with previous experience as a Senior Security Analyst within a 24/7 SOC at a leading MSSP, supporting the security operations of 60+ enterprise customers. With 7 years of total IT experience across help desk, networking, SOC, and security engineering, I've developed hands-on expertise in SIEM, threat detection, incident response, security operations, and detection engineering.
 
 I'm currently working toward **Cloud Security Engineering** (Azure & AWS), with GRC and broader enterprise security roles also on my radar. I hold **CDSA**, **SC-200** and **AZ-900**, and I document what I build and break in the home lab below.
-
-- 🔭 Currently deepening cloud security skills on **Azure** and **AWS**
-- 🏠 Running a self-hosted home lab for detection engineering practice
-- 💬 Ask me about SIEM tuning, KQL/SPL queries, or building a home SOC
 
 ## 🛡️ Featured Projects
 
