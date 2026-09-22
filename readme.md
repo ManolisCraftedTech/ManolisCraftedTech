@@ -51,6 +51,12 @@ I'm currently working toward **Cloud Security Engineering** (Azure & AWS), with 
 | 🔐 [**Raspberry PiVPN**](https://github.com/ManolisCraftedTech/pivpn) | Self-hosted VPN gateway for secure remote access |
 | 🏠 [**Defense in Depth Home Lab**](https://github.com/ManolisCraftedTech/Home-Network) | Layered home network security architecture, documented end-to-end |
 
+**Highlights:**
+- Ingested and analyzed Sysmon telemetry
+- Mapped detections to MITRE ATT&CK
+- Investigated simulated credential-access and execution attacks
+- Documented steps for a secure VPN Lab
+
 ## 🎖️ Certifications
 
 * [(CDSA) HTB Certified Defensive Security Analyst](https://www.credly.com/badges/24f5bab8-c48f-4e37-851f-51a6429f685e)
