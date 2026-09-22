@@ -12,7 +12,27 @@
 
 </div>
 
----
+## 🛠️ Technical Stack & Security Tools
+![Microsoft Defender](https://img.shields.io/badge/Microsoft-Defender_XDR-00a4ef?style=flat-square&logo=microsoft&logoColor=white)
+![Crowdstrike](https://img.shields.io/badge/Crowdstrike-Falcon_XDR-000000?style=flat-square&logo=crowdstrike&logoColor=white)
+![Cortex XDR](https://img.shields.io/badge/Palo_Alto-Cortex_XDR-00ADEF?style=flat-square&logo=paloaltonetworks&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=flat-square&logo=splunk&logoColor=white)
+![QRadar](https://img.shields.io/badge/IBM-QRadar-1F70C1?style=flat-square&logo=ibm&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-Scanning-003F5C?style=flat-square&logo=tenable&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Scanning-4EAA25?style=flat-square&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Mikrotik](https://img.shields.io/badge/Mikrotik_Router-004A99?style=flat-square&logo=mikrotik&logoColor=white)
+![Raspberry Pi 5](https://img.shields.io/badge/RPi_5_DNS_Host-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![WireGuard](https://img.shields.io/badge/VPN-WireGuard-881717?style=flat-square&logo=wireguard&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/DNS-Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-00a4ef?style=flat-square&logo=microsoft&logoColor=white)
+![FQL](https://img.shields.io/badge/FQL-000000?style=flat-square&logo=crowdstrike&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-000000?style=flat-square&logo=splunk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
 ## 🎯 About Me
 I'm a **Senior Security Analyst** based in Greece, working within a 24/7 SOC at a leading MSSP, defending **60+ enterprise customers**. Over ~2 years in security (and 7 years total in IT-help desk, networking, SOC, and now security engineering), I've built hands-on depth across SIEM, threat detection, and incident response.
 
@@ -32,20 +52,19 @@ I'm currently working toward **Cloud Security Engineering** (Azure & AWS), with 
 | 🔐 [**Raspberry PiVPN**](https://github.com/ManolisCraftedTech/pivpn) | Self-hosted VPN gateway for secure remote access |
 | 🏠 [**Defense in Depth Home Lab**](https://github.com/ManolisCraftedTech/Home-Network) | Layered home network security architecture, documented end-to-end |
 
----
+## 🎖️ Certifications
 
-### 🎖️ Certifications 
+* [(CDSA) HTB Certified Defensive Security Analyst](https://www.credly.com/badges/24f5bab8-c48f-4e37-851f-51a6429f685e)
+* [(SC-200) Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04)
+* [(AZ-900) Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/Manolisatsas-9393/DE50A79CD5A7FDC5?sharingId=556FAB9FD92BCE04)
+* [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU)
+* [AWS Defend Path-TryHackMe]
+* [AI Security Path-TryHackMe]
+* [SOC Level 1 Path-TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png)
+* [Jr Penetration Tester Path-TryHackMe](https://tryhackme.com/certificate/THM-04A38SXJYB)
+* [Cyber Defense Path-TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DXOTFDP3AA.png)
+* [Pre Security Path-TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YHQSJTYLDP.png)
 
-[(CDSA)- HTB Certified Defensive Security Analyst](https://www.credly.com/badges/24f5bab8-c48f-4e37-851f-51a6429f685e)
-[(SC-200) Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04)
-[(AZ-900) Microsoft Certified: Azure Fundamentals](  https://learn.microsoft.com/api/credentials/share/en-us/Manolisatsas-9393/DE50A79CD5A7FDC5?sharingId=556FAB9FD92BCE04)
-[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU) 
-[SOC_LEVEL1 Path-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png)
-[Cyber Defense Path-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DXOTFDP3AA.png)
-[Jr Penetration Tester Path-Tryhackme](https://tryhackme.com/certificate/THM-04A38SXJYB)
-[Pre Security Path-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YHQSJTYLDP.png)
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
