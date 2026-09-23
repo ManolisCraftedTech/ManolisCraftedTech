@@ -34,7 +34,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 ## 🎯 About Me
-I'm a Security Operations Engineer based in Greece, with previous experience as a Senior Security Analyst within a 24/7 SOC at a leading MSSP, supporting the security operations of 60+ enterprise customers. With 7 years of total IT experience across help desk, networking, SOC, and security engineering, I've developed hands-on expertise in SIEM, threat detection, incident response, security operations, and detection engineering.I'm currently working toward Cloud Security Engineering (Azure & AWS), with GRC and broader enterprise security roles also on my radar. I hold **CDSA**, **SC-200** and **AZ-900**, and I document what I build and break in the home labs below.
+I'm a Security Operations Engineer based in Greece, with previous experience as a Senior Security Analyst within a 24/7 SOC at a leading MSSP, supporting the security operations of 60+ enterprise customers. With 7 years of total IT experience across help desk, networking, SOC, and security engineering, I've developed hands-on expertise in SIEM, threat detection, incident response, security operations, and detection engineering.I'm currently working toward Cloud Security Engineering (Azure & AWS), with GRC and broader enterprise security roles also on my radar. I hold **CDSA**, **SC-200** and **AZ-900**, and I document what I build and break in the home labs below while pursuing advanced industry certifications.
 
 ## 🛡️ Featured Projects
 
