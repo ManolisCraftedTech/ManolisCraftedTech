@@ -12,7 +12,7 @@
 
 </div>
 
-## 🛠️ Technical Stack & Security Tools
+### 🛠️ Technical Stack & Security Tools
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft-Defender_XDR-00a4ef?style=flat-square&logo=microsoft&logoColor=white)
 ![Crowdstrike](https://img.shields.io/badge/Crowdstrike-Falcon_XDR-000000?style=flat-square&logo=crowdstrike&logoColor=white)
 ![Cortex XDR](https://img.shields.io/badge/Palo_Alto-Cortex_XDR-00ADEF?style=flat-square&logo=paloaltonetworks&logoColor=white)
@@ -33,10 +33,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-## 🎯 About Me
+### 🎯 About Me
 I'm a Security Operations Engineer based in Greece, with previous experience as a Senior Security Analyst within a 24/7 SOC at a leading MSSP, supporting the security operations of 60+ enterprise customers. With 7 years of total IT experience across help desk, networking, SOC, and security engineering, I've developed hands-on expertise in SIEM, threat detection, incident response, security operations, and detection engineering.I'm currently working toward Cloud Security Engineering (Azure & AWS), with GRC and broader enterprise security roles also on my radar. I hold **CDSA**, **SC-200** and **AZ-900**, and I document what I build and break in the home labs below while pursuing advanced industry certifications.
 
-## 🛡️ My Projects
+### 🛡️ My Projects
 
 | Project | Description |
 |---|---|
@@ -51,7 +51,7 @@ I'm a Security Operations Engineer based in Greece, with previous experience as 
 - Investigated simulated credential-access and execution attacks
 - Documented steps for a secure VPN Lab
 
-## 🎖️ Certifications
+### 🎖️ Certifications
 
 * [(CDSA) HTB Certified Defensive Security Analyst](https://www.credly.com/badges/24f5bab8-c48f-4e37-851f-51a6429f685e)
 * [(SC-200) Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04)
@@ -69,9 +69,8 @@ I'm a Security Operations Engineer based in Greece, with previous experience as 
 ### Badges and courses
 
 <a href="https://www.credly.com/badges/24f5bab8-c48f-4e37-851f-51a6429f685e" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/user-attachments/assets/66ab8e4b-1326-4fdb-83a5-5b0db9e6a37f" alt="HTB CDSA" width="110" style="margin:8px;" /> </a> <a href="https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/user-attachments/assets/fdbfd12a-48ed-4017-bd8c-1c5bbd3aeb2a" alt="SC-200" width="110" style="margin:8px;" /> </a> <a href="https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/user-attachments/assets/1e853432-3c74-4034-8642-5000a6069ad6" alt="AZ-900" width="110" style="margin:8px;" /> </a> <a href="https://www.credly.com/badges/10adc208-de13-4b5d-88f4-a3c0f5053d58" target="_blank" rel="noopener noreferrer"> <img src="https://i.postimg.cc/rFT2D51D/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate" width="110" style="margin:8px;" /> </a> <a href="https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url" target="_blank" rel="noopener noreferrer"> <img src="https://i.postimg.cc/bYkBpxm2/cyber-threat-management.png" alt="Cyber Threat Management" width="110" style="margin:8px;" /> </a> <a href="https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f" target="_blank" rel="noopener noreferrer"> <img src="https://i.postimg.cc/QN5Xz8Nr/network-support.png" alt="Network Support" width="110" style="margin:8px;" /> </a> <a href="https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961" target="_blank" rel="noopener noreferrer"> <img src="https://i.postimg.cc/xTKWvqfc/networking-basics.png" alt="Networking Basics" width="110" style="margin:8px;" /> </a> 
-## Certifications 
 
-## TryHackMe Labs
+### TryHackMe Labs
 
 <a href="https://tryhackme.com/manolis25/badges/intro-to-pentesting" target="_blank" rel="noopener noreferrer">
   <img src="https://i.postimg.cc/Vvt1YHKn/Screenshot-2024-02-08-224657-removebg-preview.png" alt="Intro to Pentesting" width="100" style="margin:8px;" />
@@ -113,7 +112,7 @@ I'm a Security Operations Engineer based in Greece, with previous experience as 
   <img src="https://i.postimg.cc/3xvRgJ2c/Screenshot-2024-01-18-214733-removebg-preview.png" alt="30 Day Streak" width="100" style="margin:8px;" />
 </a>
 
-## LetsDefend Labs
+### LetsDefend Labs
 
 <a href="https://app.letsdefend.io/my-rewards/detail/421849ec-3ebd-4124-93b7-2f70fd1257bf" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/user-attachments/assets/60033bed-cec6-4397-ba9c-cbd98987c7b4" width="100" style="margin:8px;" />
@@ -154,8 +153,7 @@ I'm a Security Operations Engineer based in Greece, with previous experience as 
 
 </div>
 
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
