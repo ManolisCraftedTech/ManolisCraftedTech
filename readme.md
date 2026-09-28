@@ -57,8 +57,7 @@ I'm a Security Operations Engineer based in Greece, with previous experience as 
 * [(SC-200) Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/el-gr/Manolisatsas-9393/90676BD21971E467?sharingId=556FAB9FD92BCE04)
 * [(AZ-900) Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/Manolisatsas-9393/DE50A79CD5A7FDC5?sharingId=556FAB9FD92BCE04)
 * [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/WB5A7986YEUU)
-* [AWS Defend Path-TryHackMe]
-* [AI Security Path-TryHackMe]
+* Attack and Defend AWS-TryHackMe
 * [SOC Level 1 Path-TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png)
 * [Jr Penetration Tester Path-TryHackMe](https://tryhackme.com/certificate/THM-04A38SXJYB)
 * [Cyber Defense Path-TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DXOTFDP3AA.png)
